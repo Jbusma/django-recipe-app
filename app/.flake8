@@ -5,4 +5,4 @@ exclude =
     manage.py,
     app/settings.py,
     settings.py,
-    wsgi.py,
+    wsgi.py
