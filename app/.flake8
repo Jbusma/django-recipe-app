@@ -3,5 +3,9 @@ exclude =
     migrations,
     __pycache__,
     manage.py,
+<<<<<<< HEAD
     app/settings.py,
+=======
+    settings.py,
+>>>>>>> bf3e6a3df6253c4293eba1549123f8fe3900d4f8
     wsgi.py,
